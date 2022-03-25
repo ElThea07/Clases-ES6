@@ -1,0 +1,22 @@
+{
+  "name": "desafio_clases_es6_esteban_vargas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.8",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.16.11"
+  },
+  "dependencies": {
+    "core-js": "^3.21.1"
+  }
+}
